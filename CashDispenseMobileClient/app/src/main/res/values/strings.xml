@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cash Dispense</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="prompt_username_and_password">Enter your username and password</string>
+    <string name="capture_rand_note_denomination">Capture Rand note Denomination</string>
+    <string name="amount_due">Amount due:</string>
+    <string name="value_amount_due">R 25.50</string>
+    <string name="amount_invalid">Captured amount cannot be greater than amount due</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+</resources>
